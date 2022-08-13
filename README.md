@@ -1,4 +1,4 @@
-[![MasterHead](https://www.shutterstock.com/image-vector/programming-banner-coding-best-languages-flat-1078387013)](https://replit.com/@AshutoshGupta17)
+[![MasterHead](https://aboutmonica.com/media/vscode-sparkles-demo.gif)](https://replit.com/@AshutoshGupta17)
 <h1 align="center">Hi 👋, I'm Ashutosh Gupta</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
