@@ -1,7 +1,7 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://codepen.io/your-work)
+[![MasterHead](https://www.shutterstock.com/image-vector/programming-banner-coding-best-languages-flat-1078387013)](https://replit.com/@AshutoshGupta17)
 <h1 align="center">Hi 👋, I'm Ashutosh Gupta</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theashugupta&label=Profile%20views&color=0e75b6&style=flat" alt="theashugupta" /> </p>
 
